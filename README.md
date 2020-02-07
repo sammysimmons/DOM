@@ -1,2 +1,3 @@
 # cards
-# JQuery-Effects-Challenge-2
+# JQuery-Effects-Challenge-1
+
